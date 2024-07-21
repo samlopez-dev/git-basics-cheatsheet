@@ -6,6 +6,7 @@ It is available in the languages above. Since the translation rely on volunteers
 
 - [English Version](#english-version)
 - [Versão em Português](https://github.com/0nn0/git-basics-cheatsheet/tree/master/Português)
+- [Versión en Español](https://github.com/0nn0/git-basics-cheatsheet/tree/master/Español)
 
 _In case you've missed, there's a list of our most used commands and shortcuts in the [Terminal for macOS](https://github.com/0nn0/terminal-mac-cheatsheet)._
 
